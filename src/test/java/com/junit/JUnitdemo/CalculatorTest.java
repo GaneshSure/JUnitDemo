@@ -20,10 +20,9 @@ public class CalculatorTest {
 
 	@Before
 	public  void preWork() {
-//		c = new Calculator();
+		//		c = new Calculator();
 		System.out.println("Just before test case ... 2");
 	}
-
 
 	@Test
 	public void testAdd() {
